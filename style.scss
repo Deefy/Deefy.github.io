@@ -77,11 +77,11 @@ p {
   margin: 15px 0;
 }
 a {
-  color: $regent-grey;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $regent-grey;
+    color: $blue;
   }
 }
 ul, ol {
@@ -115,7 +115,7 @@ img {
 }
 .date {
   font-style: italic;
-  color: $regent-grey;
+  color: $blue;
 }
 // Specify the color of the selection
 ::-moz-selection {
