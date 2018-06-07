@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like mushrooms as a source of entertainment not food.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am practicing Python at a basic level. I prefer oil. What are your thoughts on oil?
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+marcus.liew@challoners.org
+Please do not spam me with violent pictures of mushrooms of fungi dying/being eaten. Thank you.
