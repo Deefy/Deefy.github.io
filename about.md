@@ -13,4 +13,5 @@ I am practicing Python at a basic level. I prefer oil. What are your thoughts on
 ### Contact me
 
 marcus.liew@challoners.org
-Please do not spam me with violent pictures of mushrooms of fungi dying/being eaten. Thank you.
+
+Please do not spam me with violent pictures of mushrooms or fungi dying/being eaten. Thank you.
